@@ -1,0 +1,6 @@
+[submodule "client/electron-typescript-react-mui"]
+	path = client/electron-typescript-react-mui
+	url = https://github.com/hellosoftware-io/electron-typescript-react-mui.git
+[submodule "admin/electron-typescript-react-mui"]
+	path = admin/electron-typescript-react-mui
+	url = https://github.com/hellosoftware-io/electron-typescript-react-mui.git
